@@ -1,0 +1,6 @@
+C:\Users\Студент.MOD\source\repos\BurKlaUP\BurKlaUP\bin\Debug\BurKlaUP.exe.config
+C:\Users\Студент.MOD\source\repos\BurKlaUP\BurKlaUP\bin\Debug\BurKlaUP.exe
+C:\Users\Студент.MOD\source\repos\BurKlaUP\BurKlaUP\bin\Debug\BurKlaUP.pdb
+C:\Users\Студент.MOD\source\repos\BurKlaUP\BurKlaUP\obj\Debug\BurKlaUP.csprojAssemblyReference.cache
+C:\Users\Студент.MOD\source\repos\BurKlaUP\BurKlaUP\obj\Debug\BurKlaUP.exe
+C:\Users\Студент.MOD\source\repos\BurKlaUP\BurKlaUP\obj\Debug\BurKlaUP.pdb
